@@ -2,12 +2,13 @@
     border: 1px solid rgba(0, 66, 105, 0.28);
     border-radius: 4px;
     width: auto;
-    max-width: 1400px;
+    max-width: 1440px;
     margin: 0 auto;
     padding: 10px;
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
+    background: #f1f5f8;
 }
 
 .littralySelectedButton,
